@@ -8,9 +8,13 @@
 
 <h2>👨‍💻 Business Analytic Current Skills:</h2>
 - <b>Python</b> https://drive.google.com/file/d/1Ll3sGSxB3u6yuyTKIKm3SItWP4CwBvvq/view?usp=sharing
+
 - <b>Tableau/Tableau Prep</b> https://drive.google.com/file/d/1nqErezQk-tr-roACFjWKMtq4JEmzGlan/view?usp=sharing
+  
 - <b>SQL</b> https://drive.google.com/file/d/1356Ar518p5kI-ews02WLUkHyDPMO4RzJ/view?usp=sharing
+  
 - <b>R Code</b> https://drive.google.com/file/d/16efGutEkGBMi0-TBjaLWOLqb13-gb5Wa/view?usp=drive_link
+  
 - <b>Excel</b> https://docs.google.com/spreadsheets/d/1bQjO-4BA2UXxTc5zyVPtsAQaAMgq0YAOAELDIcGbT28/edit?usp=sharing
 
 
