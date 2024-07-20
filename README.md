@@ -12,7 +12,7 @@
 - (https://docs.google.com/presentation/d/1sdfY4bLhQu935ILlOOb2_Cx-3Kw7X3tfe6LeEjCD9Mo/edit?usp=sharing)
 
 -  <b>NBA Profitability Analysis Project</b> 
--  https://docs.google.com/presentation/d/1sdfY4bLhQu935ILlOOb2_Cx-3Kw7X3tfe6LeEjCD9Mo/edit?usp=sharing)
+-  (https://docs.google.com/presentation/d/1sdfY4bLhQu935ILlOOb2_Cx-3Kw7X3tfe6LeEjCD9Mo/edit?usp=sharing)
 
 <h2>👨‍💻 Business Analytic Current Skills:</h2>
 - <b>Python</b> https://drive.google.com/file/d/1Ll3sGSxB3u6yuyTKIKm3SItWP4CwBvvq/view?usp=sharing
