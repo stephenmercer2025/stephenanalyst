@@ -16,7 +16,7 @@
 - <b>Python</b> https://drive.google.com/file/d/1Ll3sGSxB3u6yuyTKIKm3SItWP4CwBvvq/view?usp=sharing
 
 - <b>Tableau/Tableau Prep</b> https://drive.google.com/file/d/1nqErezQk-tr-roACFjWKMtq4JEmzGlan/view?usp=sharing
-- <b>Analyzing Global Suicide Rates Using R and Tableau</b>https://docs.google.com/presentation/d/1kfzbuKzKZCihxDkQ-GVBfa5Vf8JpMqJHIT-KjkLBOog/edit#slide=id.p
+- <b>Analyzing Global Suicide Rates Using R and Tableau</b> - https://docs.google.com/presentation/d/1kfzbuKzKZCihxDkQ-GVBfa5Vf8JpMqJHIT-KjkLBOog/edit#slide=id.p
 - Presentation - https://drive.google.com/file/d/1lgcXSsXQpcCSiQ-Xp8KMWggvxBKG1cQ_/view?usp=sharing
   
 - <b>SQL</b> https://drive.google.com/file/d/1356Ar518p5kI-ews02WLUkHyDPMO4RzJ/view?usp=sharing
