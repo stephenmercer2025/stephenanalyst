@@ -1,8 +1,11 @@
 <h1>Stephen Smith Portfolio <br/><a href="https://github.com/stephenmercer2025"></a><a href="https://www.linkedin.com/in/stephen-smith-morehouse18/">Data Analyst/Business Analyst</a></h1>
 
 <h2>👨‍💻 Business Analytic Projects:</h2>
+
 - Bachelors of Arts in Math: Morehouse College (2018)
+  
 - Masters of Science in Business Analytics: Mercer University (Current)
+  
 - Master of Accountancy: Mercer University (2027)
 
 - <b>The Four Factors of Basketball method: A statistical analysis of 8 past NBA championship teams
