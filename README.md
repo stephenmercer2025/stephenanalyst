@@ -28,6 +28,7 @@
 - <b>Excel</b> https://docs.google.com/spreadsheets/d/1bQjO-4BA2UXxTc5zyVPtsAQaAMgq0YAOAELDIcGbT28/edit?usp=sharing
 
 - <h2>Management Analytics</h2> 
+- Project Article - https://drive.google.com/file/d/1QZzZaJf_M1oGVc_6hjZCeK2U3vcmQrln/view?usp=sharing
 - Excel Data - (https://docs.google.com/spreadsheets/d/1C0oZA-vlUq-I480t-1dgoUl2jBWeKfjb/edit?usp=sharing&ouid=105084628125175678976&rtpof=true&sd=true)
 - Report - https://drive.google.com/file/d/1vXbnIOkNCnFzFQdhJEohah52GCwxQ3uk/view?usp=sharing
 
