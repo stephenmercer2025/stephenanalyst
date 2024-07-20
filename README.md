@@ -10,6 +10,8 @@
 - <b>Python</b> https://drive.google.com/file/d/1Ll3sGSxB3u6yuyTKIKm3SItWP4CwBvvq/view?usp=sharing
 
 - <b>Tableau/Tableau Prep</b> https://drive.google.com/file/d/1nqErezQk-tr-roACFjWKMtq4JEmzGlan/view?usp=sharing
+- <b>Analyzing Global Suicide Rates Using R and Tableau</b>https://docs.google.com/presentation/d/1kfzbuKzKZCihxDkQ-GVBfa5Vf8JpMqJHIT-KjkLBOog/edit#slide=id.p
+- Presentation - https://drive.google.com/file/d/1lgcXSsXQpcCSiQ-Xp8KMWggvxBKG1cQ_/view?usp=sharing
   
 - <b>SQL</b> https://drive.google.com/file/d/1356Ar518p5kI-ews02WLUkHyDPMO4RzJ/view?usp=sharing
   
@@ -17,7 +19,9 @@
   
 - <b>Excel</b> https://docs.google.com/spreadsheets/d/1bQjO-4BA2UXxTc5zyVPtsAQaAMgq0YAOAELDIcGbT28/edit?usp=sharing
 
-
+- - <b>Management Analytics</b> https://docs.google.com/spreadsheets/d/1bQjO-4BA2UXxTc5zyVPtsAQaAMgq0YAOAELDIcGbT28/edit?usp=sharing
+Excel Data - (https://docs.google.com/spreadsheets/d/1C0oZA-vlUq-I480t-1dgoUl2jBWeKfjb/edit?usp=sharing&ouid=105084628125175678976&rtpof=true&sd=true)
+Report - https://drive.google.com/file/d/1vXbnIOkNCnFzFQdhJEohah52GCwxQ3uk/view?usp=sharing
 
 <h2> 🤳 Connect with me: Phone: 404-697-4612 Email: stephen.mercer2025@gmail.com </h2>
 
