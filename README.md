@@ -8,6 +8,8 @@
   
 - Master of Accountancy: Mercer University (2027)
 
+- Google Data Analytics Certification 
+
 - <b>The Four Factors of Basketball method: A statistical analysis of 8 past NBA championship teams</b>
 - (https://docs.google.com/presentation/d/1sdfY4bLhQu935ILlOOb2_Cx-3Kw7X3tfe6LeEjCD9Mo/edit?usp=sharing)
 
