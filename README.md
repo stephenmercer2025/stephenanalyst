@@ -11,7 +11,7 @@
 - <a href="https://drive.google.com/file/d/1rqN89xptRe2qfQweiHc5DYt0xDHaHcer/view?usp=sharing">Google Data Analytics Certification</a> 
 
 - <b>The Four Factors of Basketball method: A statistical analysis of 8 past NBA championship teams</b>
-- (https://docs.google.com/presentation/d/1sdfY4bLhQu935ILlOOb2_Cx-3Kw7X3tfe6LeEjCD9Mo/edit?usp=sharing)
+- (https://docs.google.com/presentation/d/18KYyhQeqBkUfJEYb1Rv777aGX0v_spBHZd7xITwHWYA/edit?usp=sharing)
 
 -  <b>NBA Profitability Analysis Project</b> 
 -  (https://docs.google.com/presentation/d/1sdfY4bLhQu935ILlOOb2_Cx-3Kw7X3tfe6LeEjCD9Mo/edit?usp=sharing)
