@@ -4,10 +4,8 @@
 
 - Bachelors of Arts in Math: Morehouse College (2018)
   
-- Masters of Science in Business Analytics: Mercer University (Current)
+- Masters of Science in Business Analytics: Mercer University (March 2025)
   
-- Master of Accountancy: Mercer University (2027)
-
 - <a href="https://drive.google.com/file/d/1rqN89xptRe2qfQweiHc5DYt0xDHaHcer/view?usp=sharing">Google Data Analytics Certification</a> 
 
 - <b>The Four Factors of Basketball method: A statistical analysis of 8 past NBA championship teams</b>
@@ -34,10 +32,12 @@
 - Excel Data - (https://docs.google.com/spreadsheets/d/1C0oZA-vlUq-I480t-1dgoUl2jBWeKfjb/edit?usp=sharing&ouid=105084628125175678976&rtpof=true&sd=true)
 - Report - https://drive.google.com/file/d/1vXbnIOkNCnFzFQdhJEohah52GCwxQ3uk/view?usp=sharing
 
+  - <h3>Capstone - Chronic Depression in the Workforce: Causes, Data Insights & Business Solutions </h3> 
+- Project Presentation - [https://drive.google.com/file/d/1QZzZaJf_M1oGVc_6hjZCeK2U3vcmQrln/view?usp=sharing](https://docs.google.com/presentation/d/1Zt8pBAq_086ootwkxVKQ5eTmdzPpIVuOq7hIQUC_BKs/edit?usp=sharing)
+- Report - https://docs.google.com/document/d/1ky4poRSr3FPiSi-jeYKu2qK6KdPZScZii1o1-cYoVxg/edit?usp=sharing
+
+
+
 <h2> 🤳 Connect with me: Phone: 404-697-4612 Email: stephen.mercer2025@gmail.com </h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on obtaining my MBA in Business Analytics from Mercer University...
-- 🌱 I’m currently learning Financial Analytics, Marketing Analytics, Data Mining, Legal and Ethical Issues Affecting Big Data...
 
